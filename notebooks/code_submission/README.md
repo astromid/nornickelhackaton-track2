@@ -9,4 +9,5 @@
 
 - [1.1-ys-preprocess-raw-data.ipynb](1.1-ys-preprocess-raw-data.ipynb) : препроцессинг сырых данных
 - [1.2-ys-feature-generation.ipynb](1.2-ys-feature-generation.ipynb) : генерация фичей с помощью featuretools
-- [1.3-ys-ctb-cv.ipynb](1.3-ys-ctb-cv.ipynb) : скрипт с оптуной для обучения CatBoost
+- [1.3-ys-ctb-cv.ipynb](1.3-ys-ctb-cv.ipynb) : обучение CatBoost
+- [start_optuna.py](start_optuna.py) : скрипт с оптуной для обучения CatBoost
